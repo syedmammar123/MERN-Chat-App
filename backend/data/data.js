@@ -7,8 +7,8 @@ const chats = [
         email: "john@example.com",
       },
       {
-        name: "Piyush",
-        email: "piyush@example.com",
+        name: "Ammar",
+        email: "Ammar@example.com",
       },
     ],
     _id: "617a077e18c25468bc7c4dd4",
@@ -22,8 +22,8 @@ const chats = [
         email: "guest@example.com",
       },
       {
-        name: "Piyush",
-        email: "piyush@example.com",
+        name: "Sam",
+        email: "Sam@example.com",
       },
     ],
     _id: "617a077e18c25468b27c4dd4",
@@ -37,12 +37,12 @@ const chats = [
         email: "anthony@example.com",
       },
       {
-        name: "Piyush",
-        email: "piyush@example.com",
+        name: "Kholi",
+        email: "Virat@example.com",
       },
     ],
     _id: "617a077e18c2d468bc7c4dd4",
-    chatName: "Anthony",
+    chatName: "Kings",
   },
   {
     isGroupChat: true,
@@ -52,8 +52,8 @@ const chats = [
         email: "jon@example.com",
       },
       {
-        name: "Piyush",
-        email: "piyush@example.com",
+        name: "Hellen",
+        email: "Hellen@example.com",
       },
       {
         name: "Guest User",
@@ -75,8 +75,8 @@ const chats = [
         email: "jane@example.com",
       },
       {
-        name: "Piyush",
-        email: "piyush@example.com",
+        name: "Don",
+        email: "don@example.com",
       },
     ],
     _id: "617a077e18c25468bc7cfdd4",
@@ -90,8 +90,8 @@ const chats = [
         email: "jon@example.com",
       },
       {
-        name: "Piyush",
-        email: "piyush@example.com",
+        name: "DOn2",
+        email: "asda@example.com",
       },
       {
         name: "Guest User",
@@ -99,7 +99,7 @@ const chats = [
       },
     ],
     _id: "617a518c4081150016472c78",
-    chatName: "Chill Zone",
+    chatName: "Chillaxxx peeps",
     groupAdmin: {
       name: "Guest User",
       email: "guest@example.com",
@@ -108,3 +108,8 @@ const chats = [
 ];
 
 module.exports = chats
+
+
+// PORT = 3500
+// MONGO_URI = mongodb+srv://syedmammar123:1234@cluster0.srqyups.mongodb.net/ChatAppdatabase?retryWrites=true&w=majority
+// JWT_SECRET = Ammu
